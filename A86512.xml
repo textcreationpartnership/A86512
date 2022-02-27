@@ -1,0 +1,484 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The honour of London apprentices: exemplified, in a briefe historicall narration; containing many heroicall actions done by (some in particular, the rest in generall) prentices of the most renowned, and (in that regard) truly honourable City of London, both at home and abroad. In long, fore-past, present, and moderne times. / Collected and published, by a well-wisher to what himselfe once was that is to say, a prentice (and now a free citizen) of the famous City of London.</title>
+            <author>A well-Wisher to What Himselfe Once Was.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86512</idno>
+            <idno type="STC">Wing H2596</idno>
+            <idno type="STC">Thomason E390_24</idno>
+            <idno type="EEBO-CITATION">99862042</idno>
+            <idno type="PROQUEST">99862042</idno>
+            <idno type="VID">160258</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86512)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160258)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E390[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The honour of London apprentices: exemplified, in a briefe historicall narration; containing many heroicall actions done by (some in particular, the rest in generall) prentices of the most renowned, and (in that regard) truly honourable City of London, both at home and abroad. In long, fore-past, present, and moderne times. / Collected and published, by a well-wisher to what himselfe once was that is to say, a prentice (and now a free citizen) of the famous City of London.</title>
+                  <author>A well-Wisher to What Himselfe Once Was.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Mostly in verse.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "June 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Apprentices --  England --  London --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160258:1" rendition="simple:additions"/>
+            <p> THE HONOUR OF LONDON APPRENTICES: EXEMPLIFIED, In a briefe Hiſtoricall Narration; Containing many Heroicall actions done by (ſome in particular, the reſt in generall) Prentices of the moſt renowned, and (in that regard) truly honourable City of <hi>London,</hi> both at home and abroad.</p>
+            <p>In long, fore-paſt, preſent, and moderne times.</p>
+            <p>Collected and publiſhed, by a Well-wiſher to what himſelfe once was that is to ſay, a Prentice (and now a free Citizen) of the famous City of <hi>London.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <add>June 3<hi rend="sup">d</hi>
+               </add> 
+               <hi>London,</hi> Printed by <hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. A.</hi> 1647<g ref="char:punc">▪</g>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160258:2"/>
+            <head>
+               <hi>The Honour of</hi> London <hi>Prentices.</hi>
+            </head>
+            <p>TO give light to thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> intended narration I account it very pertinent (as an exord<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>um to the diſcourſe) to ſet down an Exemplary practiſe (in generall) vſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d among London Prentices which might worthily bee wiſhed that it weare in ſome record drawne into cuſt<g ref="char:EOLhyphen"/>ome in all chriſtian ſoc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eties, &amp; that is the vnanimous corre<g ref="char:EOLhyphen"/>ſpo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dency that is among that innumerable company, For it is worth obseruation that whereas from all Shiers and Countries of the kingdome of England and dominion of Wales the ſonns of Knights Eſquires gentlmen miniſters yeomen and trades m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n come up from their particular pla<g ref="char:EOLhyphen"/>ces of Nativity, and aboud, to be prentices in London, each one to a trade, occupation, miſtery, or profeſſion: ſutable to their ſeverall condition, quallity, or education, yet I ſay, though ſo <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> r<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ote in bi<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> or habitation being once ſealed in this famous City, (be<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ides the commonty which obleigeth every one to his particular Maſter) there is (as one may ſay a kinde of a ſup<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rn<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tural Sympathy &amp; a gener<g ref="char:EOLhyphen"/>all Union, w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ich knits their h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rts in a bond of fraternall affection under the common <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>on of London Prent<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces or prentices of London: in ſo much that as I have taken notice many a time and often, that i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by (either reall or ſupoſed wrong, or vyolence be offer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to any one, the reſt (though not otherwiſe) knowing him to be a prentice, doe imediatly (and commonly without examination of the quarell) ingage themſelves in the reſcue, afrighting the advarſary with this terrible ſentence, Knock him down he wrongs a prentice. This generall denomination, hath begoten admirable effects
+<pb facs="tcp:160258:2"/> in all ages, as may be ſeen in our Engliſh Chronicle, and in Maſter <hi>Strouds S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rvey of London,</hi> where the honour of Lon<g ref="char:EOLhyphen"/>don Prentices in generall (and of ſome in perticular) is conſpicious to the eye of Chriſtendome, (I &amp; further too) the valiant exploits and notable feats of armes achieved and done by London Prentices is ſo remarkable that from time to time the condition hath alwaies been an inſeperable ad<g ref="char:EOLhyphen"/>junct to an Heriditary Honour, which drawn in a line to this preſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt age, hath Iluſtrated with its beames, the glory of that honourable City, as the Seminary (or ſeede plot) of martiall Spirits as the Iſue of my mu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e in Heroricall verſe ſha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l though I confeſſe unworthyly declare to the reader or hearer of the following Naration.</p>
+            <q>
+               <l>TRanſlucent Muſe with thy emphatick beames,</l>
+               <l>Quicken my genius that this Theame of Theames,</l>
+               <l>By me may be Iluſtrated ſo full.</l>
+               <l>That all may know what none can diſanull:</l>
+               <l>The honour of brave <hi>London</hi> Lads I treat,</l>
+               <l>Who have achieved many a worthy feate;</l>
+               <l>Done that which makes the world their deeds admire,</l>
+               <l>Making great <hi>London</hi> to more height aſpire,</l>
+               <l>Raſing a generall <hi>Trophy</hi> to the ſtile,</l>
+               <l>Of <hi>London</hi> Prenti<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es let falce Fortune ſmile,</l>
+               <l>Or frowne all's one, this Apolation hath,</l>
+               <l>Trod in all t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mes an honorable Path;</l>
+               <l>Peruſe our Chronicles from age to age,</l>
+               <l>When Fell <hi>Bellona</hi> did in <hi>England</hi> rage;</l>
+               <l>And you ſhall finde (whoever Peace injoy'd</l>
+               <l>Bold <hi>London</hi> Prentices in warre employd,</l>
+               <l>And ſuch ſucceſſe attended on their worth,</l>
+               <l>That rarely any Army marched forth,</l>
+               <l>Wherein the <hi>London</hi> Prentices bore ſway,</l>
+               <l>But ſtill they had the fortune of the day,</l>
+               <l>Whoſe Part ſoever this Party ſided with,</l>
+               <l>Were all moſt ſure of victory for the pith,</l>
+               <l>Marrow and veines of war in them were found<g ref="char:punc">▪</g>
+               </l>
+               <l>And all their actions were with honour crown'd;</l>
+               <pb facs="tcp:160258:3"/>
+               <l> Were <hi>London</hi> Prentices in force combin'd,</l>
+               <l>The adverſe party muſt go down the wind,</l>
+               <l>At home<g ref="char:punc">▪</g> abroad, in <hi>Europe, Aſia,</hi> and</l>
+               <l>Hot <hi>Africa,</hi> and <hi>America</hi> by Land</l>
+               <l>Or Sea, no action worth regard</l>
+               <l>Was do<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, but <hi>London</hi> Prentice in it ſhar'd.</l>
+               <l>The rayſe of <hi>London</hi> Prentices did ſhine</l>
+               <l>Among the Infide<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s in <hi>Paleſtine,</hi>
+               </l>
+               <l>When that renowned chriſtian Champion nam'd,</l>
+               <l>
+                  <hi>Gedfrey</hi> of <hi>Bullo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gne</hi> (through the world ſo fam'd)</l>
+               <l>Went to the holy war (ſo called then)</l>
+               <l>The <hi>London</hi> Prentices prov'd men of men,</l>
+               <l>And in particular <note n="*" place="margin">
+                     <hi>In Willi<g ref="char:EOLhyphen"/>am Conq. G<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o. Ellis Haberdaſher Fran. Lee, Grocer. Alex. Beale Cu<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ler. Walt. Vin<g ref="char:EOLhyphen"/>cen. fiſhm. Godf. Haris Salter. C<g ref="char:punc">▪</g> Fitz will<g ref="char:EOLunhyphen"/>iams. Geldſ. W. Valintine Taylor. Guy vaux. ſadler. N. Morgan, Braſ<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er. P. Or<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tond, Taylor. Gre Finch, Skiner. Roſſe Sly, Fiſh. Rich. Salter. Shoo. Rol. Aſhley. Butch. Sir Walter Rau<g ref="char:EOLhyphen"/>lies Hiſtory of the world, <gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>l<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> 229.</note> fifteen of them</l>
+               <l>Before the walls of old <hi>Ieruſalem,</hi>
+               </l>
+               <l>Slew and took priſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs eight and forty Turkes,</l>
+               <l>Boldly adventuring into their workes:</l>
+               <l>Two of theſe Infidel<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> were great Baſhaws,</l>
+               <l>Who came to over-top the chriſtian Lawes.</l>
+               <l>Theſe fifteen <hi>London</hi> Prentices <g ref="char:punc">▪</g>ſtout blades)</l>
+               <l>Nam'd in the margent, with their ſeverall trades</l>
+               <l>Were knighted in the field, and their bright fame</l>
+               <l>Shown on faire <hi>London City</hi> (whence they came)</l>
+               <l>What honour by theſe Heroes <hi>London</hi> got,</l>
+               <l>Time doth record and fame forgetteth not,</l>
+               <l>Were not theſe worthy Prent<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ces indeed,</l>
+               <l>Whoſe p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oweſſe all the Army did exceed;</l>
+               <l>Alſo when our ſtout <hi>Cordelion</hi> went</l>
+               <l>Againſt thoſe Miſcreants with good intent</l>
+               <l>(And pious zeale) three Regiments of theſe</l>
+               <l>Bold prentices with him did croſſe the Seas,</l>
+               <l>And at the Ile of <hi>Cipres</hi> did ſuch things,</l>
+               <l>That of their fame learned <hi>Marinoe</hi> ſings,</l>
+               <l>At ſtately <hi>Acon</hi> walls they were the firſt</l>
+               <l>Which did adventure; when no other durſt;</l>
+               <l>This was a motive which French <hi>Philip</hi> mov'd,</l>
+               <l>To leave that cauſe which moſt he ſhould have lov'd,</l>
+               <l>Meere emnlation of theſe brave young men</l>
+               <l>Made him march up the hill and down agen,</l>
+               <l>Leaving King <hi>Rich,</hi> and the holy warre,</l>
+               <l>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cauſe our men out-ſtript the French ſo farre.</l>
+               <pb facs="tcp:160258:3"/>
+               <l> Thus London Prentices where ere they came,</l>
+               <l>Purchaſt their own, England and <hi>London</hi> ſame.</l>
+               <l>Likewiſe when Warlike Longſhankes men did raiſe</l>
+               <l>For the ſame warfare in his Fathers dayes,</l>
+               <l>A number of theſe Youths (prickt forward by,</l>
+               <l>Example of the former Hiſtory)</l>
+               <l>(Some with their maſters leaves, and ſome with out)</l>
+               <l>went to fetch honour from the damned Rout</l>
+               <l>Of Turkiſh Infidels (in <hi>Paleſtine)</hi>
+               </l>
+               <l>Doing brave ſervice (in that great deſigne)</l>
+               <l>And chiefly ten, which their own Story grants,</l>
+               <l>Slew 22 of the wild Miſcreants.</l>
+               <l>This deed procur'd them Knight-hood, though thus fam'd,</l>
+               <l>I cannot name them, cauſe to me unnam'd.</l>
+               <l>Thus much for <hi>Paleſtine</hi> (the holy Land)</l>
+               <l>Where <hi>London Prentices</hi> bravely did ſtand,</l>
+               <l>For God, their Prince, and Country, with good chance,</l>
+               <l>Now will I turn my ſtyle to <hi>Spain</hi> and <hi>France,</hi>
+               </l>
+               <l>Where we ſhall view (as in a glorious glaſſe)</l>
+               <l>The fame of <hi>London Prentices,</hi> which was</l>
+               <l>So memorable in thoſe wars, that time</l>
+               <l>Hath given pray<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e to this my preſent rime.</l>
+               <l>When our third <hi>Edward</hi> (greateſt of that name)</l>
+               <l>Unto the Realme of <hi>France</hi> (at th' firſt laid claime,</l>
+               <l>Among the thouſands, which (with willing mind)</l>
+               <l>In that great enterprize were all combin'd,</l>
+               <l>
+                  <hi>Iohn Hall</hi> a Taylor neer to Leaden Hall</l>
+               <l>Apprentice (of a mind heroicall)</l>
+               <l>Having an itching humour to the wars,</l>
+               <l>He from his maſter ran to follow Mars,</l>
+               <l>And at the field of <hi>Crecy</hi> he did ſlay</l>
+               <l>With his own hand and ſword 18 that day,</l>
+               <l>And priſoner took Count <hi>Sayſons:</hi> for which thing</l>
+               <l>He inſtantly was knighted by the King,</l>
+               <l>His Colonel being ſla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, he did poſſeſſe</l>
+               <l>The charge, and govern'd it with rare ſucceſſe,</l>
+               <l>And for his credit (who had done ſuch deeds)</l>
+               <l>King <hi>Edward</hi> ſtill to honour him proceeds;</l>
+               <l>Not only him, but all the Taylors which,</l>
+               <l>I<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>London</hi> liv'd, his valour did inrich.</l>
+               <pb facs="tcp:160258:4"/>
+               <l> King <hi>Edward</hi> for <hi>Halls</hi> ſake, and exaltation,</l>
+               <l>Did make the Taylors firſt a Corpor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion:</l>
+               <l>Who linnen armours were call'd till then,</l>
+               <l>Eſteemed as poor and deſpicable men:</l>
+               <l>But now that they more honoured might be,</l>
+               <l>The King himſelf o'th Company was free,</l>
+               <l>And after him 7 more were Free-men made,</l>
+               <l>Of this moſt honourable Kingly Trade.</l>
+               <l>Then let malicious fooles this ſtory ſcan,</l>
+               <l>And bluſh to ſay, a Taylor is no man;</l>
+               <l>The Author of theſe lines, himſelf is free</l>
+               <l>O'th Merchant-taylors Company: yet he,</l>
+               <l>Did not for that reſpect advance them ſo,</l>
+               <l>Here's nothing but what Chronicles do ſhoe:</l>
+               <l>Now leaving <hi>France,</hi> I will return my ſtile,</l>
+               <l>And think I ſee the B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ack Prince in <hi>Caſtile,</hi>
+               </l>
+               <l>Ayding <hi>Don Pedro Right</hi> there o'th ſame,</l>
+               <l>Againſt the baſtard <hi>Henries</hi> Harl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t claime,</l>
+               <l>The <hi>London</hi> Prentices ſo laviſh were</l>
+               <l>Of Manhood as by ſtories doth appeare)</l>
+               <l>That all the Chriſtian world did them admire</l>
+               <l>For from the field they never wou<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d retire,</l>
+               <l>And in particular, one <hi>William Man</hi>
+               </l>
+               <l>On Fiſh-ſtreet-hill, a Vintner at the Swan,</l>
+               <l>Did ſhew h<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mſelf a perfect man (though young)</l>
+               <l>For with a matchleſſe force he laid along</l>
+               <l>Five of the Rebels (bleed<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng) on the ground,</l>
+               <l>Four ſla<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n (out-right) the fift with many a wound,</l>
+               <l>Was carryed from the field: all men of might</l>
+               <l>And eminence, for which he was dub'd Knight</l>
+               <l>By the Black Prince, and Baron made of <hi>Denbigh;</hi>
+               </l>
+               <l>Thus you may ſee that Prentices brave men be.</l>
+               <l>But on particulars ſtaying to long,</l>
+               <l>I ſhall the generall honour too much wrong.</l>
+               <l>Therefore returning to my proper ſtreame,</l>
+               <l>Ile proſecute my firſt intended theame:</l>
+               <l>Obſerve old ſtories, more eſpecially</l>
+               <l>Of the 4th <hi>Edward,</hi> and ſixth <hi>Henry:</hi>
+               </l>
+               <l>Let <hi>Warwick</hi> or his for<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>une ſmile or frown.</l>
+               <l>The ſcale of victory turn'd up or down,</l>
+               <pb facs="tcp:160258:4"/>
+               <l> Juſt as the Prentices did ayd or fight</l>
+               <l>Againſt: was ſure to be, wer't wrong or right,</l>
+               <l>Which ſide they took prevail'd: the other part</l>
+               <l>(Wanting the help ot'h Prentices) felt ſmart.</l>
+               <l>Now leaving fore-paſt actions which have beene,</l>
+               <l>Lets now draw neere to what our eyes have ſeen,</l>
+               <l>In th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s unhappy difference, which of late</l>
+               <l>Hath prov'd both happy, and unfortunate;</l>
+               <l>This an Aenigmae may be thought to be,</l>
+               <l>Yet tis moſt plain to prove: for don't we ſee</l>
+               <l>The Cavaliers bewayling their hard fate,</l>
+               <l>The Round-heads boaſting themſelves fortunate;</l>
+               <l>What would their buſineſſe have been brought unto,</l>
+               <l>Had not the Prentices been prompt to goe,</l>
+               <l>Though to'th Commanders Victory will aſcribe;</l>
+               <l>Yet known experience ſhewes, that if the tribe</l>
+               <l>Of <hi>London</hi> Prentices had not ſtood out,</l>
+               <l>The other part, had prevail'd no doubt.</l>
+               <l>I will not ſay they fought againſt the King</l>
+               <l>(For that I leſt uphold of any thing)</l>
+               <l>But to continue as I did beg<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</l>
+               <l>Proving which part the Prentice takes muſt win.</l>
+               <l>A reaſon for't, is what I ſaid at'h firſt,</l>
+               <l>A perfect union force can never burſt,</l>
+               <l>And they are ſo united that what part</l>
+               <l>They took, is ſerv'd (as 'twere) but with one heart<g ref="char:punc">▪</g>
+               </l>
+               <l>Good Lads, they took Religion for their cauſe,</l>
+               <l>Their liberties and fundamentall lawes,</l>
+               <l>The priviledge of Parliament (what not)</l>
+               <l>But certainly by that auſpitiouſly Lot,</l>
+               <l>Which followes <hi>London</hi> Prentices (in war)</l>
+               <l>The difference 'twards a perids run thus far,</l>
+               <l>And probable conjectures we may reap,</l>
+               <l>That from this ſeed of ſorrow halcyon dayes</l>
+               <l>Shall ſpring in <hi>England;</hi> and we ſhall ere long</l>
+               <l>Enjoy King, Peace, Truth, Liberty, our Song,</l>
+               <l>Shall then be gratefull Locans to our God,</l>
+               <l>Our King, our Parliament, when every odde</l>
+               <l>Shall be made even; and we Engliſh-men</l>
+               <l>Reſtor'd unto our Priſtine State agen;</l>
+               <pb facs="tcp:160258:5"/>
+               <l> And <hi>London</hi> Prentices ſhall honoured be</l>
+               <l>With what belongs to them (in each degree)</l>
+               <l>I'th intrim as an earneſt that with love,</l>
+               <l>The Parliament doth of their zeale approve,</l>
+               <l>Their juſt Petitions granted, not by chance,</l>
+               <l>But even confirmed by an Ordinance,</l>
+               <l>That as their valour hath oblieg'd our Nation,</l>
+               <l>Once in a Moneth for honeſt recreation</l>
+               <l>A day's allow'd; thus ſervice is rewarded,</l>
+               <l>And <hi>London</hi> Prentices are well regarded:</l>
+               <l>For ſo they ought (if things we rightly ſcan)</l>
+               <l>Sith no Lord Mayor, no Sheriffe, nor Alderman,</l>
+               <l>But was a <hi>London</hi> Prentice, ere he came</l>
+               <l>To be a Citizen free of the ſame,</l>
+               <l>And from that firſt did by degrees aſcend</l>
+               <l>Unto that ſtate which Prentices defend;</l>
+               <l>Now a ſhort dore to ſhu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in this ſmall Story,</l>
+               <l>Is this, Let <hi>London</hi> ſtill th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nk on the glory,</l>
+               <l>Which She hath by her Prentices accrew'd,</l>
+               <l>Let Whores and Bawds leave off their courſes lewd,</l>
+               <l>Leaſt a Shrove-tueſday viſit (or ſome houre</l>
+               <l>Wherein the <hi>London</hi> Prentices have power)</l>
+               <l>Chaſtiſe their ſordities: brave Prentices,</l>
+               <l>Do utterly abhor ſuch things as theſe.</l>
+               <l>Adieu my noble hearts, judge not amiſſe</l>
+               <l>Of him who to your honour publiſh'd this.</l>
+            </q>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
